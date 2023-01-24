@@ -1,0 +1,19 @@
+.search-results-container {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: auto;
+}
+
+.result {
+  margin-bottom: 16px;
+}
+
+.result h4 {
+  margin: 16px 0 8px;
+}
+
+.result p {
+  margin: 0;
+  margin-bottom: 8px;
+}

@@ -1,0 +1,13 @@
+.pagination-container {
+  display: flex;
+  align-items: center;
+}
+
+.pagination-container > p {
+  border-radius: 50px;
+  padding: 0 4px;
+}
+
+button:disabled {
+  color: #c6c6c6;
+}

@@ -1,0 +1,23 @@
+button {
+  all: unset;
+  cursor: pointer;
+  font-size: small;
+  font-weight: 300;
+}
+
+button:hover {
+  text-decoration: underline;
+}
+
+button:focus {
+  outline: 0;
+}
+
+.App {
+  padding: 24px;
+}
+
+.header {
+  text-align: center;
+  font-size: 60px;
+}
